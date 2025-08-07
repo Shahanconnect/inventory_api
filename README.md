@@ -37,6 +37,7 @@ uvicorn main:app --reload
 
 | Description         | Screenshot                                      |
 |---------------------|-------------------------------------------------|
-| Product List (JSON) | ![JSON View](api_screenshots/product-list-json.png) |
-| Product List (Table)| ![Table View](api_screenshots/product-list-table.png) |
+![Product List JSON](api_screenshots/product-list-jason.PNG)
+![Product List – Table View](api_screenshots/product-list-table.PNG)
+
 
