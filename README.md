@@ -33,11 +33,13 @@ alembic upgrade head
 
 uvicorn main:app --reload
 
-## 📸 Screenshots
-<h3>Product List – JSON</h3>
-<img src="https://raw.githubusercontent.com/Shahanconnect/inventory_api/main/api_screenshots/product-list-json.PNG" width="600">
+## 📸 API Screenshots
 
-<h3>Product List – Table</h3>
-<img src="https://raw.githubusercontent.com/Shahanconnect/inventory_api/main/api_screenshots/product-list-table.PNG" width="600">
+### Product List – JSON  
+![Product JSON](https://raw.githubusercontent.com/Shahanconnect/inventory_api/main/api_screenshots/product-list-jason.PNG)
+
+### Product List – Table  
+![Product Table](https://raw.githubusercontent.com/Shahanconnect/inventory_api/main/api_screenshots/product-list-table.PNG)
+
 
 
