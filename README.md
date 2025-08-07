@@ -33,3 +33,9 @@ alembic upgrade head
 
 uvicorn main:app --reload
 
+| Description         | Screenshot                                      |
+|---------------------|-------------------------------------------------|
+| Product List (JSON) | ![JSON View](api_screenshots/product-list-json.png) |
+| Product List (Table)| ![Table View](api_screenshots/product-list-table.png) |
+
+
