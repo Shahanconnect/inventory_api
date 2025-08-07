@@ -41,9 +41,9 @@ uvicorn main:app --reload
 ## API Screenshots
 
 ### Product List – JSON
-<img src="https://raw.githubusercontent.com/Shahanconnect/inventory_api/main/api_screenshots/product-list-jason.PNG" width="600" style="margin-bottom: 10px;">
+![Product JSON](https://raw.githubusercontent.com/Shahanconnect/inventory_api/main/api_screenshots/product-list-jason.PNG)
 
 ### Product List – Table
-<img src="https://raw.githubusercontent.com/Shahanconnect/inventory_api/main/api_screenshots/product-list-table.PNG" width="600" style="margin-bottom: 10px;">
+![Product Table](https://raw.githubusercontent.com/Shahanconnect/inventory_api/main/api_screenshots/product-list-table.PNG)
 
 
